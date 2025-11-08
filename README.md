@@ -33,7 +33,7 @@ This hands-on project demonstrates how to:
 - **Application Load Balancer**
 - **CloudWatch Alarms + Metrics**
 
-![AWS Architecture](screenshots/)
+![AWS Architecture](screenshots/aws-architecture.png)
 
 ---
 
