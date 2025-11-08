@@ -1,4 +1,5 @@
-# 🚀 AWS Day 3 Hands-On Project: Scaling + Monitoring
+# 🚀 AWS EC2 Auto Scaling, ALB & CloudWatch Monitoring Project
+
 
 **Author:** Mahesh Shukla  
 **Goal:** Build a highly available, scalable, and monitored web infrastructure using **AWS EC2**, **EBS**, **AMI**, **Launch Template**, **Auto Scaling Group (ASG)**, **Application Load Balancer (ALB)**, and **CloudWatch**.  
