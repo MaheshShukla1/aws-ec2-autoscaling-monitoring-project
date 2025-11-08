@@ -316,7 +316,7 @@ http://<ALB-DNS-Name>
 **Mahesh Shukla**  
 _Aspiring AWS DevSecOps Engineer_  
 📍 Mumbai, India  
-🔗 [LinkedIn](http://linkedin.com/in/maheshsh)
+🔗 [LinkedIn](https://www.linkedin.com/in/maheshshukla01/)
 
 > _“Scaling is not a feature — it’s a mindset.  
 > Monitor everything. Automate everything.”_
